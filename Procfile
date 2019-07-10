@@ -1,0 +1,1 @@
+web: gunicorn establishment_backend.wsgi
